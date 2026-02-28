@@ -86,5 +86,6 @@ Research Center - May change focus between Science and Industry. Enables technol
 Need to select a form of Government  
 Need to select the form of economy  
 Need to provide culture/history [WIP- Can be cut]  
-Determine their Race and Language. (Discuss compatibility) Negotiations start on prelanding phase.  
+Determine their Race and Language. (Discuss compatibility)   
+Negotiations start on prelanding phase.  
 
