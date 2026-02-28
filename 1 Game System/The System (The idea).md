@@ -80,6 +80,7 @@ Basic Public Services - Enables Local Governments, Policing, Social Services, an
 | 500    | Science    | 100           |
 | 500    | Industry   | 150           |
 | 50     | Culture    | 200           |
+
 Research Center - May change focus between Science and Industry. Enables technological development  
 ## What do players need to do before start
 Need to select a form of Government  
